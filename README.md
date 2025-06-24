@@ -25,20 +25,20 @@ Sonuç olarak, bu yazılım; harcamaları daha verimli yönetmek, finansal süre
 ### 2. Dashboard
 ![Finansal Tablo](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224847.png)
 
-### 3. Kategoriler Fromu
-![Müşteri Bilgileri](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224933.png)
+### 3. Kategoriler Formu
+![Kategoriler Formu](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224933.png)
 
 ### 4. Banka Bilgileri Formu
-![Banka İşlemleri](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224947.png)
+![Banka Bilgileri Formu](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224947.png)
 
 ### 5. Banka Hareketleri Formu
-![Ödeme Takibi](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224958.png)
+![Banka Hareketleri Formu](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224958.png)
 
 ### 6. Harcamalar Formu
-![Raporlama Sayfası](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20225010.png)
+![Harcamalar Formu](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20225010.png)
 
-### 7. Dödemeler ve Fatura Ekranı Formu
-![Detaylı Müşteri Görüntüleme](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20225023.png)
+### 7. Ödemeler ve Fatura Ekranı Formu
+![Ödemeler ve Fatura Ekranı Formu](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20225023.png)
 
 
 
