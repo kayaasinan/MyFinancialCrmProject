@@ -17,28 +17,26 @@ Bu masaüstü uygulama, kullanıcıların finansal işlemlerini tek bir ekrandan
 Kullanıcılar, finansal verilerini çeşitli kategorilere ayırabilir, analiz edebilir ve bu sayede hem bireysel hem de küçük çaplı ticari kullanımlar için işlevsel bir kontrol paneline sahip olur. Sağlam veri altyapısı sayesinde, uygulama sadece bireysel değil, kurumsal sistemler için de genişletilebilir niteliktedir.
 Sonuç olarak, bu yazılım; harcamaları daha verimli yönetmek, finansal süreçleri analiz etmek ve stratejik kararlar almayı kolaylaştırmak amacıyla geliştirilmiştir.
 
-## 📸 Ekran Görüntüleri
-
 ### 1. Giriş Ekranı
-![Giriş Ekranı](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20170903.png)
+![Giriş Ekranı](https://github.com/kayaasinan/MyFinancialCrmProject/blob/master/MyFinancialCrmProject/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20170903.png?raw=true)
 
 ### 2. Dashboard
-![Finansal Tablo](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224847.png)
+![Finansal Tablo](https://github.com/kayaasinan/MyFinancialCrmProject/blob/master/MyFinancialCrmProject/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224847.png?raw=true)
 
 ### 3. Kategoriler Formu
-![Kategoriler Formu](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224933.png)
+![Kategoriler Formu](https://github.com/kayaasinan/MyFinancialCrmProject/blob/master/MyFinancialCrmProject/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224933.png?raw=true)
 
 ### 4. Banka Bilgileri Formu
-![Banka Bilgileri Formu](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224947.png)
+![Banka Bilgileri Formu](https://github.com/kayaasinan/MyFinancialCrmProject/blob/master/MyFinancialCrmProject/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224947.png?raw=true)
 
 ### 5. Banka Hareketleri Formu
-![Banka Hareketleri Formu](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224958.png)
+![Banka Hareketleri Formu](https://github.com/kayaasinan/MyFinancialCrmProject/blob/master/MyFinancialCrmProject/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20224958.png?raw=true)
 
 ### 6. Harcamalar Formu
-![Harcamalar Formu](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20225010.png)
+![Harcamalar Formu](https://github.com/kayaasinan/MyFinancialCrmProject/blob/master/MyFinancialCrmProject/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20225010.png?raw=true)
 
 ### 7. Ödemeler ve Fatura Ekranı Formu
-![Ödemeler ve Fatura Ekranı Formu](Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20225023.png)
+![Ödemeler ve Fatura Ekranı Formu](https://github.com/kayaasinan/MyFinancialCrmProject/blob/master/MyFinancialCrmProject/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-24%20225023.png?raw=true)
 
 
 
